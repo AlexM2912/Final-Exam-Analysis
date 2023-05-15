@@ -1,3 +1,4 @@
+![WhatsApp Image 2023-05-15 at 12 40 21 PM](https://github.com/AlexM2912/Final-Exam-Analysis/assets/129182783/be7e2c5f-2c86-4cc7-b39b-2ac7ebbe7ff7)
 # Bookstore System
 
 This project is a Bookstore System that follows the Model-View-Controller (MVC) architectural pattern. It allows users to search for books, reserve them, purchase them, return them, and view sales reports. The system consists of the following components:
